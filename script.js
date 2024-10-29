@@ -1,5 +1,5 @@
 const no_of_pages = 4;
-const dataContainer = document.getElementsById("main-container");
+const dataContainer = document.getElementById("main-container");
 const page_numbers = document.getElementById("page-numbers");
 const prev_page = document.getElementById("prev");
 const next_page =document.getElementById("next");
